@@ -13,9 +13,6 @@ Original file is located at
 Crea un archivo Python llamado *app_ventas_retail.py* o un nuevo notebook y descargalo como *app_ventas_retail.py:*
 """
 
-# Instalar la librería Streamlit (si no está instalada)
-!pip install streamlit
-
 # Importaciones necesarias
 import streamlit as st
 import pandas as pd
